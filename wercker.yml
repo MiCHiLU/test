@@ -5,4 +5,3 @@ deploy:
   - michilu/go-appengine-deploy:
       email:    $APP_ENGINE_EMAIL
       password: $APP_ENGINE_PASSWORD
-
